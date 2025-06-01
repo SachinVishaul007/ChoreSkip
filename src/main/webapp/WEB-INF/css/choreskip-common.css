@@ -1,0 +1,128 @@
+/* ChoreSkip Common Styles */
+:root {
+    --primary-blue: #007bff;
+    --light-bg: #f2f5fc;
+    --white: #ffffff;
+    --text-color: #333;
+    --error-color: #f44336;
+    --border-radius: 8px;
+    --box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--light-bg);
+    color: var(--text-color);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Standard Container */
+.choreskip-container {
+    max-width: 500px;
+    background-color: var(--white);
+    padding: 40px;
+    margin: 20px auto;
+    box-shadow: var(--box-shadow);
+    border-radius: var(--border-radius);
+    border: 2px solid var(--primary-blue);
+    text-align: center;
+    flex: 1;
+}
+
+/* Typography */
+h1, h2, h3 {
+    font-weight: bold;
+    color: var(--primary-blue);
+    margin-bottom: 15px;
+}
+
+.error-text {
+    color: var(--error-color);
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+/* Form Elements */
+.choreskip-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.choreskip-form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: var(--primary-blue);
+    width: 100%;
+    text-align: left;
+}
+
+.choreskip-form input,
+.choreskip-form select {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+
+.choreskip-btn {
+    background-color: var(--primary-blue);
+    color: var(--white);
+    border: none;
+    padding: 12px 24px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+    margin: 5px;
+}
+
+.choreskip-btn:hover {
+    background-color: #0056b3;
+}
+
+/* Footer */
+.choreskip-footer {
+    background-color: #f8f8f8;
+    padding: 15px;
+    text-align: center;
+    margin-top: auto;
+    width: 100%;
+    border-top: 1px solid #ddd;
+    font-size: 12px;
+    color: #666;
+}
+
+/* Header/Brand */
+.choreskip-brand {
+    color: var(--primary-blue);
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+/* ================================================================== */
+/* 1) Style for the logo itself: bigger, and positioned in the top-left */
+/* ================================================================== */
+.logo {
+    position: absolute;
+    top: 20px;       /* distance from the top of the viewport */
+    left: 20px;      /* distance from the left of the viewport */
+    max-width: 300px;/* adjust to whatever final width you need */
+    width: 100%;
+    height: auto;    /* preserve aspect ratio */
+    z-index: 100;    /* keep it on top of other elements if needed */
+}
