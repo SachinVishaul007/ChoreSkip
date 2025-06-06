@@ -3,7 +3,7 @@
 🔗 **Live Demo:** http://demo.choreskip.com
 
 ---
-![image](https://github.com/user-attachments/assets/0b334fba-1efe-4e89-9af9-b718803ab016)
+![image](https://github.com/user-attachments/assets/3e087eaa-4d1c-4a1f-a1f9-4708b41ec118)
 
 ## 🏠 Overview
 
