@@ -1,6 +1,6 @@
 # choreSkip — Your Earn-Before-Spend Chore Companion
 
-🔗 **Live Demo:** https://demo.choreskip.com
+🔗 **Live Demo:** http://demo.choreskip.com
 
 ---
 ![image](https://github.com/user-attachments/assets/0b334fba-1efe-4e89-9af9-b718803ab016)
