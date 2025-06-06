@@ -41,6 +41,9 @@ choreSkip is a lightweight web application built for shared living spaces—dorm
 - **Email & SMS alerts** to all roommates whenever any chore is marked complete or skipped.  
 - Summary in each notification: chore name, who acted, next assignee, remaining skip-point balances.
 
+  ![image](https://github.com/user-attachments/assets/265c0e4c-9ed8-432c-a094-6d9b2204bbc9)
+
+
 ### 5. Fair Round-Robin Seeding  
 - On group creation, chores are **seeded in ID order** across members by join time.  
 - Example with A, B, C and chores 1–5:  
