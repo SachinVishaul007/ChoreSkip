@@ -1,6 +1,6 @@
 # choreSkip — Your Earn-Before-Spend Chore Companion
 
-🔗 **Live Demo:** http://demo.choreskip.com
+🔗 **Live Demo:** http://demo.choreskip.me
 ---
 
 ## Cloud Architecture:
