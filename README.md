@@ -1,17 +1,22 @@
 # choreSkip — Your Earn-Before-Spend Chore Companion
 
 🔗 **Live Demo:** http://demo.choreskip.com
+---
+
+## Cloud Architecture:
+
+![image](https://github.com/user-attachments/assets/c745e5c8-847e-42f2-aeba-296d34ac9b12)
 
 ---
 ![image](https://github.com/user-attachments/assets/3e087eaa-4d1c-4a1f-a1f9-4708b41ec118)
 
-## 🏠 Overview
+## Overview
 
 choreSkip is a lightweight web application built for shared living spaces—dorms, apartments or house-shares—where fair chore rotation meets flexible “skip” mechanics. Rather than forcing everyone to follow a rigid schedule, choreSkip lets you **earn skip-points** for helping out and **spend them** when you need a break.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### 1. Individual Chore Dashboard  
 - **At-a-glance view** of “My Next Turn” for each assigned chore.  
@@ -52,7 +57,7 @@ choreSkip is a lightweight web application built for shared living spaces—dorm
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 
 ![image](https://github.com/user-attachments/assets/93c14c8e-be04-47d3-91c0-890978f8d0fe)
@@ -75,7 +80,7 @@ choreSkip is a lightweight web application built for shared living spaces—dorm
 
 ---
 
-## 🛠 Under the Hood
+## Under the Hood
 
 - **Auth & Groups:** Users join a shared “household” by invite link.  
 - **Assignment Engine:** Tracks next-due and debt queues per user/chore.  
@@ -85,7 +90,7 @@ choreSkip is a lightweight web application built for shared living spaces—dorm
 
 ---
 
-## 👥 Who It’s For
+## Who It’s For
 
 - **College roommates** juggling classes and part-time jobs.  
 - **Flatmates** who hate surprise chore duty.  
@@ -93,7 +98,7 @@ choreSkip is a lightweight web application built for shared living spaces—dorm
 
 ---
 
-## 🌱 Future Roadmap
+## Future Roadmap
 
 - **Mobile Push Notifications**  
 - **Group chat** & poll for chore swaps  
