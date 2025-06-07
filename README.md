@@ -3,7 +3,7 @@
 🔗 **Live Demo:** http://demo.choreskip.me
 ---
 
-## Cloud Architecture:
+## Deployed in Cloud:
 
 ![image](https://github.com/user-attachments/assets/c745e5c8-847e-42f2-aeba-296d34ac9b12)
 
